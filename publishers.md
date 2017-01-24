@@ -1175,3 +1175,6 @@ We hope that tenure and promotion committees can also decide for themselves how 
 * [Zygoscient](http://zygoscient.org/)
 
 Last updated December 31, 2016
+
+**Appeals:** If you are a publisher and would like to appeal your firm’s inclusion on this list,
+please go [here](https://github.com/peixian/predatory-publishers/issues).

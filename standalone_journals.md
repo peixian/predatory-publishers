@@ -1318,3 +1318,9 @@ We hope that tenure and promotion committees can also decide for themselves how 
 * [World Wide Journal of Multidisciplinary Research and Development](http://wwjmrd.com/)
 
 Last updated January 9, 2017
+
+
+
+**Appeals:** If you are a publisher and would like to appeal your firm’s inclusion on this list,
+please go [here](https://github.com/peixian/predatory-publishers/issues).
+
