@@ -1,5 +1,7 @@
 # A GitHub Mirror of Beall's List
-Beall's list was a list of predatory journals and publishers, originally published by Jeffrey Beall. Preadatory journals are journals which allow papers to be published for a fee, thereby acting as credential mills for those who need "scientist"/"researcher" qualifications. 
+Beall's list was a list of predatory journals and publishers, originally published by Jeffrey Beall, whose site was unfortunately taken down. See: https://www.insidehighered.com/news/2017/01/18/librarians-list-predatory-journals-reportedly-removed-due-threats-and-politics
+
+Preadatory journals are journals which publish garbage papers, basically selling "scientist credentials" for those who are willing to pay.  
 
 I've mirrored it here as of Jan 24th, 2017, Beall last updated it December 31st, 2016. 
 
