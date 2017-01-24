@@ -3,7 +3,7 @@ Beall's list was a list of predatory journals and publishers, originally publish
 
 Preadatory journals are journals which publish garbage papers, basically selling "scientist credentials" for those who are willing to pay.  
 
-I've mirrored it here as of Jan 24th, 2017, Beall last updated it December 31st, 2016. 
+I've mirrored it here as of Jan 24th, 2017, Beall last updated it December 31st, 2016, which can be seen at: http://web.archive.org/web/20170112125427/https://scholarlyoa.com/publishers/
 
 PR's welcome!
 
